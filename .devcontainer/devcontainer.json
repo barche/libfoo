@@ -6,4 +6,5 @@
     "twxs.cmake",
     "ms-vscode.cmake-tools"
   ],
+  "runArgs": ["--privileged"]
 }
