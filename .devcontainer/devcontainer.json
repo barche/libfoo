@@ -1,0 +1,9 @@
+{
+  "image": "barche/libcxxwrapjulia:0.1"
+  "extensions": [
+    "julialang.language-julia",
+    "ms-vscode.cpptools",
+    "twxs.cmake",
+    "ms-vscode.cmake-tools"
+  ],
+}
