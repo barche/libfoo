@@ -1,5 +1,5 @@
 {
-  "image": "barche/libcxxwrapjulia:0.2"
+  "image": "barche/libcxxwrapjulia:latest"
   "extensions": [
     "julialang.language-julia",
     "ms-vscode.cpptools",
