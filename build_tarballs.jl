@@ -42,7 +42,7 @@ products = [
 # Dependencies that must be installed before this package can be built
 dependencies = [
     Dependency("libcxxwrap_julia_jll"),
-    BuildDependency("Julia_jll")
+    BuildDependency(PackageSpec(name="Julia_jll", version=v"1.4.1"))
 ]
 
 # Build the tarballs, and possibly a `build.jl` as well.
